@@ -4,7 +4,7 @@ A new Flutter project to demostrate googelSignIn in FLutter.
 
 
 - [Firebase Auth](https://pub.dev/packages/firebase_auth)
-- [Google Sign IN](https://pub.dev/packages/google_sign_in)
+- [Google Sign In](https://pub.dev/packages/google_sign_in)
 
 ## Demo
   <p align="center">
